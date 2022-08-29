@@ -4,6 +4,8 @@
         <page name='BigO'/>
         <page name='Merge Two List'/>
         <page name='BigO reduced '/>
-        <page name='Untitled Page 3'/>
+        <page name='MergeSort'/>
+        <page name='BubbleSort'/>
+        <page name='practice'/>
     </pages>
 </playground>
