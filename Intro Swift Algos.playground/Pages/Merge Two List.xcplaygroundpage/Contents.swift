@@ -11,6 +11,7 @@ import XCTest
  */
 
 func merge(_ L1: [Int], _ L2: [Int]) -> [Int] {
+    
     var result = [Int]()
     
     var i = 0
@@ -69,6 +70,23 @@ class Tests: XCTestCase {
         let actual = merge([1, 2, 3], [4, 5, 6])
         XCTAssertEqual(expected, actual)
     }
+    
+    func testNegative() {
+        let expected = [-1, 2, 3, 7, 8, 9]
+        let actual = merge([-1, 2, 3], [7, 8, 9])
+        XCTAssertEqual(expected, actual)
+        
+    }
+    
+    func testRepeated() {
+        
+        let expected = [1,1,2,2,3,3,45,64]
+        let actual = merge([1,3,2],[1,2,3,64,45])
+        let sortActual = actual.sorted()
+        
+        XCTAssertEqual(expected,sortActual)
+    }
+    
 }
 
 // Infrastructure

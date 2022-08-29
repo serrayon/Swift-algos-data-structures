@@ -25,6 +25,8 @@ func someFunc(_ n: Int) {
     }
 }
 
+
+
 func dropConstants(_ n: Int) {
     for _ in 0..<n { // O(n)
         // simple statements
@@ -58,17 +60,7 @@ func nested(_ n: Int, _ m: Int) {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
+print(nested(10,9))
 
 func someConditional(_ n: Int) {
     if n == 2 {
@@ -84,14 +76,6 @@ func someConditional(_ n: Int) {
         }
     }
 }
-
-
-
-
-
-
-
-
 
 
 
