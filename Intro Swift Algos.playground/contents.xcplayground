@@ -9,7 +9,7 @@
         <page name='practice'/>
         <page name='help'/>
         <page name='palindrome'/>
-        <page name='merge Sort Bottom up'/>
-        <page name='palindromenew'/>
+        <page name='insertion sort (swap)'/>
+        <page name='insertino sort (no swap)'/>
     </pages>
 </playground>
