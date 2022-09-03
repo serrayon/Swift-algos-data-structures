@@ -7,5 +7,6 @@
         <page name='MergeSort'/>
         <page name='BubbleSort'/>
         <page name='practice'/>
+        <page name='palindrome'/>
     </pages>
 </playground>
