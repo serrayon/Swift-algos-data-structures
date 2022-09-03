@@ -11,5 +11,6 @@
         <page name='palindrome'/>
         <page name='insertion sort (swap)'/>
         <page name='insertino sort (no swap)'/>
+        <page name='commons in (Brute)'/>
     </pages>
 </playground>
