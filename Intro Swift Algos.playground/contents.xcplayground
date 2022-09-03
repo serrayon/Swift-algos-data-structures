@@ -8,5 +8,8 @@
         <page name='BubbleSort'/>
         <page name='practice'/>
         <page name='help'/>
+        <page name='palindrome'/>
+        <page name='merge Sort Bottom up'/>
+        <page name='palindromenew'/>
     </pages>
 </playground>
