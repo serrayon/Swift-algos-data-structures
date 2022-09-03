@@ -7,7 +7,7 @@
         <page name='MergeSort'/>
         <page name='BubbleSort'/>
         <page name='practice'/>
-        <page name='help'/>
+        <page name='merge sort bottom up'/>
         <page name='palindrome'/>
         <page name='insertion sort (swap)'/>
         <page name='insertino sort (no swap)'/>
