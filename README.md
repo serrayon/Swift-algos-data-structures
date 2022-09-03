@@ -1,10 +1,10 @@
 # Swift-Algorithms
 Setting up pages for different algos 
 
-click on Swift algo playground
+1. Click on Intro Swift algo playground >
 
-Pages  
+2. Pages  
 
-click on specific algo 
+3. Click on specific algo 
 
-click on contents.swift for code
+4. Click on contents.swift for code
